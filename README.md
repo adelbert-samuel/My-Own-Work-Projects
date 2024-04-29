@@ -6,12 +6,16 @@ This repository contains a collection of my personal projects.
 
 | Project Name | Description |
 | --- | --- |
-| #[Project 1](project1/) | 
+| #[Project 1](https://github.com/adelbert-samuel/My-Own-Work-Projects/tree/main/a-responsive-sidebar-menu-using-html-css-and-javascript-with-dark-and-light-mode) | 
 #A brief description of Project 1. |
-| #[Project 2](project2/) | 
+| #[Project 2](https://github.com/adelbert-samuel/My-Own-Work-Projects/tree/main/Magic%20Slider%20using%20HTML%20CSS%20and%20Javascript) | 
 #A brief description of Project 2. |
 | #[Project 3](project3/) | 
 #A brief description of Project 3. |
+#A brief description of Project 4. |
+| #[Project 4](project3/) | 
+#A brief description of Project 4. |
+
 
 ## Getting Started
 
